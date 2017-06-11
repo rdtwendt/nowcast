@@ -1,6 +1,6 @@
 # nowcast
 
-https://dl.dropboxusercontent.com/u/88590382/html_pics/nowcast_splash.jpg
+<a href="https://nbviewer.jupyter.org/github/rdtwendt/nowcast/blob/master/notebooks/NPSMDL_k6_dev.ipynb"><img src="https://dl.dropboxusercontent.com/u/88590382/html_pics/nowcast_splash.jpg" style="width:600x"></a>
 
 ## Atmospheric Prediction with Bayesian Inference and MCMC Sampling
 

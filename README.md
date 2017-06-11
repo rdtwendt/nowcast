@@ -11,10 +11,6 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
   - [NowCast Model Code](https://nbviewer.jupyter.org/github/rdtwendt/nowcast/blob/master/notebooks/NPSMDL_k6_dev.ipynb)
 
 #### Deprecated
-
-  - [Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
-
-  - [Metropolis Sampler](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)
   
 ## Technical Support
 

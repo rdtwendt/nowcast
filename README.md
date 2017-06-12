@@ -10,7 +10,7 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 #### Current
 
-  - [NowCast Development Code](https://nbviewer.jupyter.org/github/rdtwendt/nowcast/blob/master/notebooks/NPSMDL_k6_dev.ipynb) [[ZIP(https://github.com/rdtwendt/nowcast/archive/master.zip)]
+  - [NowCast Development Code](https://nbviewer.jupyter.org/github/rdtwendt/nowcast/blob/master/notebooks/NPSMDL_k6_dev.ipynb) [[ZIP](https://github.com/rdtwendt/nowcast/archive/master.zip)]
 
 #### Deprecated
 
